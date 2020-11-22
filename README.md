@@ -2,9 +2,12 @@
 
 https://www.youtube.com/watch?v=_6M1zw3EHvc&list=PLLqQGhR49nBo106c4tQZQPiaG5gQZjrpD
 
+---
+---
 
 لتحميل برنامج
-PGAdmin
+
+`PGAdmin`
 
 ١. تنزيل النسخة المناسبة لنظام التشغيل من الرابط
 
@@ -93,8 +96,10 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 <img src='./readme-images/s16.png' width=50% height=50%>
 
 ---
-
+---
 
 الملف المرفق
+
 `city_country.sql`
+
 يمكن استخدامه لإضافة جدولين لقاعدة البيانات
