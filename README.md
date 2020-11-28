@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=_6M1zw3EHvc&list=PLLqQGhR49nBo106c4tQZQPiaG5gQZj
 ---
 ---
 
-لتحميل برنامج
+لتثبيت برنامج
 
 `PGAdmin`
 
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=_6M1zw3EHvc&list=PLLqQGhR49nBo106c4tQZQPiaG5gQZj
 https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
 ---
-٢.عند تشغيل برنامج التحميل ستظهر لك شاشة مشابهة للشاشةالآتية ، قم بالضغط على نكست
+٢.عند تشغيل برنامج التثبيت ستظهر لك شاشة مشابهة للشاشةالآتية ، قم بالضغط على نكست
 
 <img src='./readme-images/s1.png' width=50% height=50%>
 
@@ -46,27 +46,27 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 <img src='./readme-images/s6.png' width=50% height=50%>
 
 ---
-٨. هذه القائمة تتضمن المعايير اللغوية ، الاختيار الافتراضي يستخدم معايير اللغة من نظامك التشغيلي ، قم بالضغط على نكست
+٨. هذه القائمة تتضمن المعايير اللغوية ، الاختيار الافتراضي يستخدم معايير اللغة في نظامك التشغيلي ، قم بالضغط على نكست
 
 <img src='./readme-images/s7.png' width=50% height=50%>
 
 ---
-٩. في هذه الشاشة ملخص الاختيارات السابقة للتأكد قبل البدأ بتنزيل البرنامج ، قم بالمراجعة ومن ثم الضغط على نكست
+٩. في هذه الشاشة ملخص الاختيارات السابقة للتأكد قبل البدأ بتثبيت البرنامج ، قم بالمراجعة ومن ثم اضغط على نكست
 
 <img src='./readme-images/s8.png' width=50% height=50%>
 
 ---
-١٠. هذه شاشة تأكيدية لموافقتك على تنزيل البرنامج ، اضغط على نكست
+١٠. هذه شاشة تأكيدية لموافقتك على تثبيت البرنامج ، اضغط على نكست
 
 <img src='./readme-images/s9.png' width=50% height=50%>
 
 ---
-١١. هذه الشاشة تعرض إنزال البرنامج ، بعد الانتهاء اضغط على نكست
+١١. هذه الشاشة تعرض تثبيت البرنامج ، بعد الانتهاء اضغط على نكست
 
 <img src='./readme-images/s10.png' width=50% height=50%>
 
 ---
-١٢. قم بترك الاختيار والضغط على نكست لتنزيل الامتداد الجغرافي لقاعدة البيانات
+١٢. قم بترك الاختيار المشار إليه ومن ثم الضغط على نكست لتثبيت الامتداد الجغرافي لقاعدة البيانات
 
 <img src='./readme-images/s11.png' width=50% height=50%>
 
@@ -100,6 +100,6 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
 الملف المرفق
 
-`city_country.sql`
+`city_country_tables.sql`
 
 يمكن استخدامه لإضافة جدولين لقاعدة البيانات
